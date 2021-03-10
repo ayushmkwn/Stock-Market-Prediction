@@ -30,7 +30,7 @@
    ],
    "source": [
     "import pickle\n",
-    "filename = '18BCE107_18BCE092_18BCE122'\n",
+    "filename = 'Model'\n",
     "loaded_model = pickle.load(open(filename,'rb'))"
    ]
   },
